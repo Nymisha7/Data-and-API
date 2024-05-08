@@ -11,10 +11,7 @@ Example Request Body:
 You will receive the generated marketing content in the response.
 
 Example:(Response I have received)
-
-powershell
-Copy code
-User
+(I have used powershell)
 StatusCode        : 200
 StatusDescription : OK
 Content           : {
